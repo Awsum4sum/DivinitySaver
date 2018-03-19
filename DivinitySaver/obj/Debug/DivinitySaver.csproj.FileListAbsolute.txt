@@ -1,0 +1,6 @@
+c:\users\awsum4sum\documents\visual studio 2015\Projects\DivinitySaver\DivinitySaver\bin\Debug\DivinitySaver.exe.config
+c:\users\awsum4sum\documents\visual studio 2015\Projects\DivinitySaver\DivinitySaver\bin\Debug\DivinitySaver.exe
+c:\users\awsum4sum\documents\visual studio 2015\Projects\DivinitySaver\DivinitySaver\bin\Debug\DivinitySaver.pdb
+c:\users\awsum4sum\documents\visual studio 2015\Projects\DivinitySaver\DivinitySaver\obj\Debug\DivinitySaver.csprojResolveAssemblyReference.cache
+c:\users\awsum4sum\documents\visual studio 2015\Projects\DivinitySaver\DivinitySaver\obj\Debug\DivinitySaver.exe
+c:\users\awsum4sum\documents\visual studio 2015\Projects\DivinitySaver\DivinitySaver\obj\Debug\DivinitySaver.pdb
